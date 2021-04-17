@@ -38,7 +38,7 @@ body {
 }
 
 .one {
-    font-size: 4.5rem;
+    font-size: 3.2rem;
 }
 
 .one>img {
@@ -216,6 +216,12 @@ body {
     text-transform: uppercase;
 }
 
+.xd{
+    font-size: 3em;
+    margin: 0;
+    text-transform: uppercase;
+}
+
 .wish h5 {
     font-weight: lighter;
     font-size: 2rem;
@@ -223,7 +229,7 @@ body {
 }
 
 .nine p {
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: lighter;
 }
 
